@@ -114,7 +114,7 @@ body{
    text-transform: uppercase;
    text-align: center;
    font-weight: 600;
-   line-height: 1.4em;
+   /* line-height: 1.4em; */
 }
 
 .profileText h2 span{
@@ -272,6 +272,19 @@ p{
    font-weight: 500;
    letter-spacing: 1px;
    color: #333;
+}
+.about .skills h3{
+   padding-top: 10px;
+}
+.about .skills p{
+   margin: 0;
+}
+.about .skills a{
+   text-decoration: none;
+   color: #333;
+}
+.about .skills p a:hover{
+   text-decoration: underline;
 }
 .about .skills li::before{
    content: '\f00c';

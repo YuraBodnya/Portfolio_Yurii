@@ -156,6 +156,7 @@ h2{
    font-size: 80px;
    line-height: 70px;
    font-weight: 500;
+   text-align: left;
 }
 
 .header-navbar .bg-header section a{
@@ -447,6 +448,25 @@ main .about .about-img .img-box img{
    color: #333;
    margin: 20px 0 50px 0;
 }
+
+.skills .wrap-block .experince-block .experince-last-text{
+   font-size: 14px;
+   line-height: 24px;
+   color: #333;
+   margin: 0 !important;
+}
+.skills .wrap-block .experince-block .experince-last-text{
+   font-size: 14px;
+   line-height: 24px;
+   color: #333;
+   padding-bottom: 5px;
+}
+.skills .wrap-block .experince-block h5{
+   padding: 20px 0 15px 0;
+   font-size: 18px;
+}
+
+
 
 /* PROJECTS */
 
